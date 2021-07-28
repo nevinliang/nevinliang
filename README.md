@@ -6,12 +6,14 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
 <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="Octave" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" />
+
 <br><br>
 
 
