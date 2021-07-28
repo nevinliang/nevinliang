@@ -13,6 +13,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" />
+<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
+
 
 <br><br>
 
