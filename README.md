@@ -19,7 +19,7 @@
 <br><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nzwl702&count_private=true&theme=calm&showicons=true)]()
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzwl702&count_private=true&theme=calm&exclude_repo=git-practice+topo_ordered_commits&langs_count=10&layout=compact)]()
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzwl702&count_private=true&theme=calm&exclude_repo=git-practice&topo_ordered_commits&langs_count=10&layout=compact)]()
 <!--
 **nzwl702/nzwl702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
