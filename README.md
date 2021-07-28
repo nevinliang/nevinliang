@@ -1,4 +1,4 @@
-### Hi there! I'm Nevin Liang, a embedded systems engineer!
+# Hi there! I'm Nevin Liang.
 
 
 ## Welcome to my Github
@@ -16,7 +16,7 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nzwl702&count_private=true&theme=tokyonight&showicons=true)]()
-
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzwl702&layout=compact&theme=tokyonight)]()
 <!--
 **nzwl702/nzwl702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
