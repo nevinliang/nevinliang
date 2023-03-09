@@ -16,12 +16,6 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
 
-
-<br><br>
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nevinliang&show_icons=true&count_private=true&theme=radical)]()
-
 <!--
 **nzwl702/nzwl702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
