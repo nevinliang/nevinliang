@@ -8,6 +8,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
 <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="Octave" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />
