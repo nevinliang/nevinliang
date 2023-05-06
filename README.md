@@ -16,7 +16,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
-<img align="left" alt="Emacs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />
+<img align="left" alt="Emacs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/2048px-EmacsIcon.svg.png" />
 
 <!--
 **nzwl702/nzwl702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
