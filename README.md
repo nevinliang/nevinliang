@@ -1,4 +1,4 @@
-# Hi there! I'm Nevin Liang.
+# Hi there! I'm Nevin.
 
 
 ## Welcome to my Github
